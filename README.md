@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @cpppowercode
-- 👀 I’m interested in C#/Unity , C++/Unreal Engine
-- 🌱 I’m currently learning all of the programming language
-- 💞️ I’m looking to collaborate on games
-- 📫 How to reach me cpppowercode@gmail.com
+안녕하세요 C++ 개발자 CPPPOWERCODE 입니다
 
 <!---
 cpppowercode/cpppowercode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
