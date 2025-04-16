@@ -1,4 +1,4 @@
-안녕하세요 C++ 개발자 CPPPOWERCODE 입니다
+안녕하세요 CPPPOWERCODE 입니다
 
 <!---
 cpppowercode/cpppowercode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
